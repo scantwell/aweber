@@ -4,16 +4,17 @@ An django rest api for interview with Aweber.
 ## Set up and installation  
 
 Build Docker Image:  
-cd api  
-docker build -t aweber_widget_api .
+
+    cd api  
+    docker build -t aweber_widget_api .
 
 Run Docker Container:
 
-docker run -d -p 8080:8000 --name aweber_widget_api aweber_widget_api
+    docker run -d -p 8080:8000 --name aweber_widget_api aweber_widget_api
 
-## API Naviation  
+## API Navigation  
 
-- To see all of the endpoints naviate to the swagger ui 27.0.0.1:8080/schema/swagger-ui  
+- To see all of the endpoints navigate to the swagger ui 27.0.0.1:8080/schema/swagger-ui  
 - To download the OpenAPI spec document navigate to 127.0.0.1:8080/schema
 
 - To Create a new widget  
