@@ -1,5 +1,5 @@
 # aweber
-An django rest api for interview with Aweber.
+An django rest api for Aweber widgets
 
 ## Set up and installation  
 
