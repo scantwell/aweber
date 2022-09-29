@@ -1,7 +1,7 @@
 # aweber
 An django rest api for interview with Aweber.
 
-Build Docker Image:
+Build Docker Image:  
 cd api  
 docker build -t aweber_widget_api .
 
