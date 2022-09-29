@@ -14,7 +14,7 @@ Run Docker Container:
 
 ## API Navigation  
 
-- To see all of the endpoints navigate to the swagger ui 27.0.0.1:8080/schema/swagger-ui  
+- To see all of the endpoints navigate to the swagger ui 127.0.0.1:8080/schema/swagger-ui  
 - To download the OpenAPI spec document navigate to 127.0.0.1:8080/schema
 
 - To Create a new widget  
